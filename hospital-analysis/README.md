@@ -31,7 +31,8 @@ This project contains 10 SQL queries that analyze hospital data to uncover insig
 9. Department with the Lowest Number of Patients
 10. Monthly Medical Expenses Report
 
-> 🔗 SQL queries are located in: [`queries/hospital_analysis.sql`](./queries/hospital_analysis.sql)
+> 🔗 SQL queries are located in: [`Queries_Hospital_Analysis.sql`](./Queries_Hospital_Analysis.sql)
+
 
 ---
 
