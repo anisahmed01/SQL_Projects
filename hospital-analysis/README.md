@@ -1,4 +1,4 @@
-# 🏥 Hospital Data Analysis (SQL Project)
+# 🏥 India Hospital Insights (SQL Project)
 
 This project contains 10 SQL queries that analyze hospital data to uncover insights such as:
 
