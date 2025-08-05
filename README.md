@@ -6,7 +6,7 @@ Welcome to my collection of SQL-based data analysis projects. Each project is bu
 
 ## 📚 Projects Included
 
-### 🏥 [Hospital Data Analysis](./hospital-analysis/)
+### 🏥 [India Hospital Insights](./India_Hospital_Insights/)
 Analyze healthcare operational metrics using SQL queries, including:
 
 - Total patient count
@@ -14,7 +14,7 @@ Analyze healthcare operational metrics using SQL queries, including:
 - Medical expense trends
 - Patient stay durations
 
-> 📂 Folder: [`hospital-analysis`](./hospital-analysis/)
+> 📂 Folder: [`India_Hospital_Insights`](./India_Hospital_Insights/)
 
 ---
 
