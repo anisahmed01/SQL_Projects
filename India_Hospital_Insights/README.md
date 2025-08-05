@@ -14,7 +14,6 @@ This project contains 10 SQL queries that analyze hospital data to uncover insig
 
 - `queries/` — Contains all SQL queries used to answer 10 business questions.
 - `data/` — Contains the hospital dataset in CSV format (if shared).
-- `extras/` — (Optional) Word document submitted during the course.
 
 ---
 
@@ -31,7 +30,7 @@ This project contains 10 SQL queries that analyze hospital data to uncover insig
 9. Department with the Lowest Number of Patients
 10. Monthly Medical Expenses Report
 
-> 🔗 SQL queries are located in: [`Queries_Hospital_Analysis.sql`](./Queries_Hospital_Analysis.sql)
+> 🔗 SQL queries are located in: [`Queries_India_Hospital_Insights.sql`](./Queries_India_Hospital_Insights.sql)
 
 
 ---
