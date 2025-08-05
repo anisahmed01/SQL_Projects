@@ -6,7 +6,7 @@ Welcome to my collection of SQL-based data analysis projects. Each project is bu
 
 ## 📚 Projects Included
 
-### 🏥 [India Hospital Insights](./India_Hospital_Insights/)
+### 1.  🏥 [India Hospital Insights](./India_Hospital_Insights/)
 Analyze healthcare operational metrics using SQL queries, including:
 
 - Total patient count
